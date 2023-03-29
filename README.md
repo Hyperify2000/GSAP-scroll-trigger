@@ -2,7 +2,17 @@
 
 Messing around with GSAP's scroll trigger plugin and lighting
 
-Install:
+Install Dependencies:
 ```
-git clone 
+npm install
+```
+
+Run local server:
+```
+npm run dev
+```
+
+Build for production:
+```
+npm run build
 ```
