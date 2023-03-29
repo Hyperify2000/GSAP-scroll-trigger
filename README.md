@@ -2,6 +2,8 @@
 
 Messing around with GSAP's scroll trigger plugin and lighting
 
+
+
 Install Dependencies:
 ```
 npm install
