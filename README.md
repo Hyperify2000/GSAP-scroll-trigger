@@ -2,7 +2,7 @@
 
 Messing around with GSAP's scroll trigger plugin and lighting
 
-### Setup
+## Setup
 
 Install Dependencies:
 ```
